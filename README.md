@@ -7,3 +7,4 @@
 ## TODO List
 - [ ] Create UI for selective file deletion
 - [ ] Create option to reorder added files
+- [ ] Prevent User from selecting non .pdf files
