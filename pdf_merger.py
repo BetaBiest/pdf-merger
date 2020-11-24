@@ -1,4 +1,4 @@
-#!\\bin\env\python3
+#!/usr/bin/env python3
 import os.path
 import tkinter
 from tkinter import Tk, Menu, Label, LabelFrame, Button, LEFT, Toplevel, Checkbutton
